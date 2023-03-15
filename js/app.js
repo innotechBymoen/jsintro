@@ -7,3 +7,9 @@ console.log(item_one_name);
 console.log(item_one_price);
 console.log(item_two_name);
 console.log(item_two_price);
+
+let user_points = 90;
+
+if(user_points >= 75){
+    console.log("You did it! You have so many points!");
+}
